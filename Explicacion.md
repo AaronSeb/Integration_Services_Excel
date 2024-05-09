@@ -46,9 +46,13 @@ con eso terminamos la configuración del tercer objeto
 #### **4. Configuración del cuarto objeto(Destino de OLE DB)**
 ![alt text](image-13.png)
 Hacemos click en Destino de OLE DB para seleccionar la conexión y la tabla de nuestra base de datos
+
 ![alt text](image-14.png)
+
 Mapeamos nuestro campos para pasar los datos
+
 ![alt text](image-15.png)
+
 De esta manera tenemos la configuración para los datos nuevos que se ingresen en la base de datos
 
 #### **5. Configuración del quinto objeto (División condicional)**
